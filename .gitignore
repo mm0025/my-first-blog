@@ -1,6 +1,7 @@
 *.pyc
 *~
 __pycache__
+/MINA
 myvenv
 db.sqlite3
 /static
